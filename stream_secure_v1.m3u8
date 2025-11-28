@@ -1,0 +1,215 @@
+#EXTM3U
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/3w2845ys" group-title="Bangla",R Bangla
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/325242nm" group-title="Bangla",ABP Ananda
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/473c48fx" group-title="Bangla",Zee 24 Ghanta
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/53pw87ek" group-title="Bangla",TV9 Bangla
+https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/3evptytc" group-title="Bangla",News 18 Bangla
+https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/zwkr4ajn" group-title="Bangla",Calcutta News
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="Bangla",Zee Bangla HD 
+https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8 
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Bangla",Star Jalsha HD
+http://87.255.35.150:18237
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+
+#EXTINF:-0 tvg-logo="" group-title="Bangla",Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/Xxz6ChKQ/unnamed-1.jpg" group-title="Kids",Disney CHANNEL HD
+http://66.102.120.18:8000/play/a013/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
+http://66.102.120.18:8000/play/a070/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
+http://66.102.120.18:8000/play/a00p
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
+http://66.102.120.18:8000/play/a00t
+
+#EXTINF:-1 ,Disney CH
+http://66.102.120.18:8000/play/a070/index.m3u8
+#EXTINF:-1 ,&flix HD - Rs 19.00
+http://66.102.120.18:8000/play/a022/index.m3u8
+#EXTINF:-1 ,&pictures HD - Rs 19.00
+http://66.102.120.18:8000/play/a01t/index.m3u8
+#EXTINF:-1 ,&tv HD - Rs 19.00
+http://66.102.120.18:8000/play/a01u/index.m3u8
+#EXTINF:-1 ,24 News HD
+http://66.102.120.18:8000/play/a04v/index.m3u8
+#EXTINF:-1 ,24B HD
+http://66.102.120.18:8000/play/a044/index.m3u8
+#EXTINF:-1 ,365 NEWS
+http://66.102.120.18:8000/play/a039/index.m3u8
+#EXTINF:-1 ,8XM HD
+http://66.102.120.18:8000/play/a050/index.m3u8
+#EXTINF:-1 ,92 Entertainment
+http://66.102.120.18:8000/play/a06m/index.m3u8
+#EXTINF:-1 ,92 News HD
+http://66.102.120.18:8000/play/a04y/index.m3u8
+#EXTINF:-1 ,Animal Planet - Rs 2.00
+http://66.102.120.18:8000/play/a010/index.m3u8
+#EXTINF:-1 ,B4U Movies - Free
+http://66.102.120.18:8000/play/a01w/index.m3u8
+#EXTINF:-1 ,BBC News
+http://66.102.120.18:8000/play/a074/index.m3u8
+#EXTINF:-1 ,CNN International
+http://66.102.120.18:8000/play/a03h/index.m3u8
+#EXTINF:-1 ,COLORS CINIPLEX HD
+http://66.102.120.18:8000/play/a06z/index.m3u8
+#EXTINF:-1 ,Capital TV
+http://66.102.120.18:8000/play/a02y/index.m3u8
+#EXTINF:-1 ,Cartoon Network - Rs 4.75
+http://66.102.120.18:8000/play/a00t/index.m3u8
+#EXTINF:-1 ,Colors Cineplex Bollywood - Rs 0.10
+http://66.102.120.18:8000/play/a01a/index.m3u8
+#EXTINF:-1 ,Colors HD - Rs 19.00
+http://66.102.120.18:8000/play/a00a/index.m3u8
+#EXTINF:-1 ,DW English HD
+http://66.102.120.18:8000/play/a03i/index.m3u8
+#EXTINF:-1 ,Discovery HD - Rs 8.00
+http://66.102.120.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 ,Discovery Kids - Rs 3.50
+http://66.102.120.18:8000/play/a00k/index.m3u8
+#EXTINF:-1 ,Discovery Science - Rs 1.00
+http://66.102.120.18:8000/play/a01l/index.m3u8
+#EXTINF:-1 ,Discovery Turbo - Rs 1.00
+http://66.102.120.18:8000/play/a016/index.m3u8
+#EXTINF:-1 ,Disney International HD
+http://66.102.120.18:8000/play/a078/index.m3u8
+#EXTINF:-1 ,Disney Junior - Rs 4.00
+http://66.102.120.18:8000/play/a004/index.m3u8
+#EXTINF:-1 ,Pogo - Rs 4.75
+http://66.102.120.18:8000/play/a00l/index.m3u8
+#EXTINF:-1 ,SET HD - Rs 19.00
+http://66.102.120.18:8000/play/a005/index.m3u8
+#EXTINF:-1 ,SONY BBC EARTH HD - Rs 19.00
+http://66.102.120.18:8000/play/a01r/index.m3u8
+#EXTINF:-1 ,SONY MAX - Rs 19.00
+http://66.102.120.18:8000/play/a00u/index.m3u8
+#EXTINF:-1 ,SONY MAX 2 - Rs 1.00
+http://66.102.120.18:8000/play/a00h/index.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://66.102.120.18:8000/play/a071/index.m3u8
+#EXTINF:-1 ,SONY PIX HD - Rs 19.00
+http://66.102.120.18:8000/play/a01z/index.m3u8
+#EXTINF:-1 ,SONY SPORTS TEN 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a012/index.m3u8
+#EXTINF:-1 ,SONY SPORTS TEN 2 HD - Rs 19.00
+http://66.102.120.18:8000/play/a01y/index.m3u8
+#EXTINF:-1 ,SONY SPORTS TEN 3 HD - Rs 19.00
+http://66.102.120.18:8000/play/a013/index.m3u8
+#EXTINF:-1 ,SONY SPORTS TEN 4 - Rs 17.00
+http://66.102.120.18:8000/play/a014/index.m3u8
+#EXTINF:-1 ,SONY YAY! - Rs 4.00
+http://66.102.120.18:8000/play/a00s/index.m3u8
+#EXTINF:-1 ,STAR GOLD HD - Rs 19.00
+http://66.102.120.18:8000/play/a00f/index.m3u8
+#EXTINF:-1 ,STAR Movies HD - Rs 19.00
+http://66.102.120.18:8000/play/a021/index.m3u8
+#EXTINF:-1 ,STAR Movies Select HD - Rs 19.00
+http://66.102.120.18:8000/play/a020/index.m3u8
+#EXTINF:-1 ,STAR Plus HD - Rs 22.00
+http://66.102.120.18:8000/play/a008/index.m3u8
+#EXTINF:-1 ,STAR SPORTS S1 HD
+http://66.102.120.18:8000/play/a06x/index.m3u8
+#EXTINF:-1 ,STAR SPORTS S2 HD
+http://66.102.120.18:8000/play/a06y/index.m3u8
+#EXTINF:-1 ,STAR Sports 1 Hindi HD
+http://66.102.120.18:8000/play/a072/index.m3u8
+#EXTINF:-1 ,STAR Sports2 Hindi HD
+http://66.102.120.18:8000/play/a00v/index.m3u8
+#EXTINF:-1 ,SUNO NEWS HD
+http://66.102.120.18:8000/play/a05n/index.m3u8
+#EXTINF:-1 ,Sab TV
+http://66.102.120.18:8000/play/a035/index.m3u8
+#EXTINF:-1 ,See TV
+http://66.102.120.18:8000/play/a03y/index.m3u8
+#EXTINF:-1 ,Showbox - Rs 0.10
+http://66.102.120.18:8000/play/a018/index.m3u8
+#EXTINF:-1 ,Sindh News
+http://66.102.120.18:8000/play/a03x/index.m3u8
+#EXTINF:-1 ,Sindh TV
+http://66.102.120.18:8000/play/a03w/index.m3u8
+#EXTINF:-1 ,Sonic - Rs 1.00
+http://66.102.120.18:8000/play/a00p/index.m3u8
+#EXTINF:-1 ,Star Gold 2 - Rs 3.00
+http://66.102.120.18:8000/play/a00g/index.m3u8
+#EXTINF:-1 ,Star Gold 2 HD
+http://66.102.120.18:8000/play/a077/index.m3u8
+#EXTINF:-1 ,Star Gold Romance - Rs 2.00
+http://66.102.120.18:8000/play/a00r/index.m3u8
+#EXTINF:-1 ,Star Gold Select HD - Rs 8.00
+http://66.102.120.18:8000/play/a01s/index.m3u8
+#EXTINF:-1 ,Star Gold Thrills - Rs 2.00
+http://66.102.120.18:8000/play/a00c/index.m3u8
+#EXTINF:-1 ,Star Sports 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a009/index.m3u8
+#EXTINF:-1 ,Star Sports 1 Hindi - Rs 19.00
+http://66.102.120.18:8000/play/a00i/index.m3u8
+#EXTINF:0 group-title="SPORTS" ,STAR SPORTS 2HD HINDI
+http://87.255.35.150:18882
+#EXTINF:0 group-title="SPORTS" ,STAR SPORTS SELECT HD 1
+http://87.255.35.150:18893
+#EXTINF:-1 ,Zee Anmol Cinema - Rs 0.10
+http://66.102.120.18:8000/play/a01v/index.m3u8
+#EXTINF:-1 ,Zee Bollywood - Rs 3.00
+http://66.102.120.18:8000/play/a00n/index.m3u8
+#EXTINF:-1 ,Zee Cafe HD
+http://66.102.120.18:8000/play/a076/index.m3u8
+#EXTINF:-1 ,Zee Cinema HD
+http://66.102.120.18:8000/play/a06w/index.m3u8
+#EXTINF:-1 ,Zee Classic - Rs 0.10
+http://66.102.120.18:8000/play/a006/index.m3u8
+#EXTINF:-1 ,Zee TV HD - Rs 19.00
+http://66.102.120.18:8000/play/a00y/index.m3u8
+#EXTINF:0 group-title="HINDI" ,ZEE TV HD
+http://87.255.35.150:18843
+#EXTINF:0 group-title="HINDI" ,ZOOM
+http://87.255.35.150:18842
+#EXTINF:0 group-title="HINDI" ,SONY MAX 2
+http://87.255.35.150:18841
+#EXTINF:0 group-title="HINDI" ,COLORS INFINITY HD
+http://87.255.35.150:18838
+#EXTINF:0 group-title="HINDI" ,STAR PLUS HD
+http://87.255.35.150:18850
+#EXTINF:0 group-title="HINDI" ,SONY MAX HD
+http://87.255.35.150:18851
+#EXTINF:0 group-title="HINDI" ,STAR PRAVA
+http://87.255.35.150:18853
+#EXTINF:0 group-title="HINDI" ,STAR GOLD HD
+http://87.255.35.150:18859
+#EXTINF:0 group-title="HINDI" ,ZEE BOLLYWOOD
+#EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
+http://66.102.120.18:8000/play/a01k
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Ten 1 HD 
+http://87.255.35.150:18926/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Ten 2 HD
+http://66.102.120.18:8000/play/a01y
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Ten 5 HD
+http://66.102.120.18:8000/play/a010
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138230_CASACARDS_PARTNER_16_9_1920_1080.png",Deccan Gladiators Vs Vista Riders (Abu Dhabi T10, 2025)
+https://bd-mc-fdlive.fancode.com/mumbai/138230_english_hls_b17fbed12319936_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118492_CASACARDS_PARTNER_16_9_1920_1080.png",Sprint Qualifying (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
+https://d3ebng79z9qao.cloudfront.net/out/v1/48d9b4db06304a1fad54a86327684df7/index.m3u8

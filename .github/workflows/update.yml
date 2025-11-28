@@ -2,8 +2,8 @@ name: Merge Playlists
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes. Change to '*/15' for 15 mins.
-  workflow_dispatch: # Allows you to run it manually if needed
+    - cron: '*/30 * * * *' # Runs every 30 minutes.
+  workflow_dispatch: # Allows you to run it manually
 
 permissions:
   contents: write
@@ -18,17 +18,19 @@ jobs:
       - name: Download and Merge
         run: |
           # 1. Download both playlists
-          curl -s "https://raw.githubusercontent.com/aninditar035-max/chanel/fcc011fd4b08a2e3b1da31ac3dcb8466f21c863d/tv_file.m3u " > list1.txt
-          curl -s "https://raw.githubusercontent.com/hasanhabibmottakin/FC/refs/heads/main/bd_rest_playlist.m3u " > list2.txt
+          # FIXED: Switched to 'main' branch for auto-updates and removed spaces
+          curl -s "https://raw.githubusercontent.com/aninditar035-max/chanel/main/tv_file.m3u" > list1.txt
+          curl -s "https://raw.githubusercontent.com/hasanhabibmottakin/FC/main/bd_rest_playlist.m3u" > list2.txt
 
           # 2. Start the new merged file with the standard header
-          echo "#EXTM3U" > playlist.m3u8
+          # RENAMED: Changed to a secret filename so the public can't guess it easily
+          echo "#EXTM3U" > stream_secure_v1.m3u8
 
           # 3. Append List 1 (skipping its #EXTM3U header if present)
-          grep -v "^#EXTM3U" list1.txt >> playlist.m3u8 || true
+          grep -v "^#EXTM3U" list1.txt >> stream_secure_v1.m3u8 || true
 
           # 4. Append List 2 (skipping its #EXTM3U header)
-          grep -v "^#EXTM3U" list2.txt >> playlist.m3u8 || true
+          grep -v "^#EXTM3U" list2.txt >> stream_secure_v1.m3u8 || true
 
           # Cleanup temp files
           rm list1.txt list2.txt
@@ -37,7 +39,9 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add playlist.m3u8
+          
+          # Add the new secret file
+          git add stream_secure_v1.m3u8
           
           # Only commit if the file has actually changed
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update playlist" && git push)

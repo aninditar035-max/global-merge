@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /playlist.m3u8

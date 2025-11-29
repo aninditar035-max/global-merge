@@ -197,12 +197,35 @@ http://87.255.35.150:18859
 #EXTINF:0 group-title="HINDI" ,ZEE BOLLYWOOD
 #EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
 http://66.102.120.18:8000/play/a01k
+#EXTINF:-1 group-title="",AAJ TAK (IND)
+http://87.255.35.150:18958/
+#EXTINF:-1 group-title="",NDTV (IND)
+http://87.255.35.150:18819/
+#EXTINF:-1 group-title="",MTV (IND)
+http://87.255.35.150:18901/
+#EXTINF:-1 group-title="",SONY SAB HD (IND)
+http://87.255.35.150:18810/
+#EXTINF:-1 group-title="",ZEE NEWS (IND)
+http://87.255.35.150:18854/
+#EXTINF:-1 group-title="",ZEE TV HD (IND)
+http://87.255.35.150:18849/
+#EXTINF:-1 group-title="",ZOOM (IND)
+http://87.255.35.150:18842/
+#EXTINF:-1 group-title="",HUNGAMA TV (IND)
+http://87.255.35.150:18811/
+#EXTINF:-1 group-title="",STAR BHARAT (IND)
+http://87.255.35.150:18853/
+#EXTINF:-1 group-title="",STAR PLUS HD (IND)
+http://87.255.35.150:18850/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Ten 1 HD 
 http://87.255.35.150:18926/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Ten 2 HD
 http://66.102.120.18:8000/play/a01y
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tinyurl.com/4spysv9t",Sony Ten 3 HD
+http://87.255.35.150:18848/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Ten 5 HD
 http://66.102.120.18:8000/play/a010
@@ -211,5 +234,7 @@ http://66.102.120.18:8000/play/a010
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138657_CASACARDS_PARTNER_16_9_1920_1080.png",Prime Ministers Xi Vs England (England tour of Australia, Tour Match, 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/138657_english_hls_adec7aab1689551_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138309_CASACARDS_PARTNER_16_9_1920_1080.png",Pokhara Avengers Vs Lumbini Lions (Nepal Premier League, 2025)
+https://bd-mc-fdlive.fancode.com/mumbai/138309_english_hls_6453289b5951143_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138612_CASACARDS_PARTNER_16_9_1920_1080.png",Day 3 (BMW Australian PGA Championship)
 https://bd-mc-fdlive.fancode.com/mumbai/138612_english_hls_b03bd9df0899278_1ta-di_h264/index.m3u8

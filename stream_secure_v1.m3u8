@@ -209,11 +209,11 @@ http://87.255.35.150:18842
 http://87.255.35.150:18842/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",MTV (IND)
 http://87.255.35.150:18901/
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118494_CASACARDS_PARTNER_16_9_1920_1080.png",Qualifying (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
-https://dx2t0z1gzcvgu.cloudfront.net/out/v1/fab241a5180048cb864ca24c5c83dda4/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138041_CASACARDS_PARTNER_16_9_1920_1080.png",England Under 19 Vs West Indies Under 19 (England Under-19 tour of West Indies, 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/138041_english_hls_247df7f00026607_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138070_CASACARDS_PARTNER_16_9_1920_1080.png",Albacete Vs Deportivo De La Coruña (LALIGA Hypermotion 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138070_english_hls_18127e6ae235352_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130968_CASACARDS_PARTNER_16_9_1920_1080.png",Atletico De Madrid Vs Real Oviedo (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/130968_english_hls_a38b696af539905_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138059_CASACARDS_PARTNER_16_9_1920_1080.png",Trinidad & Tobago Red Force Vs Barbados Pride (CG United Super50 Cup, 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/138059_english_hls_38216a413471243_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118494_CASACARDS_PARTNER_16_9_1920_1080.png",Qualifying (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
+https://dx2t0z1gzcvgu.cloudfront.net/out/v1/fab241a5180048cb864ca24c5c83dda4/index.m3u8

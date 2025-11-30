@@ -211,6 +211,12 @@ http://87.255.35.150:18842/
 http://87.255.35.150:18901/
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138428_CASACARDS_PARTNER_16_9_1920_1080.png",Belgium Vs India (Sultan Azlan Shah Cup)
 https://bd-mc-fdlive.fancode.com/mumbai/138428_english_hls_a0db59900b79127_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118495_CASACARDS_PARTNER_16_9_1920_1080.png",Race (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
+https://db5zt1c7xktt3.cloudfront.net/out/v1/a621359be29f4747b8c0635e4f6c41f4/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118495_CASACARDS_PARTNER_16_9_1920_1080.png",Race (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
+https://dxwrpgkati4zj.cloudfront.net/out/v1/6d6a53f6b05b458681d40c69551844e5/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118495_CASACARDS_PARTNER_16_9_1920_1080.png",Race (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
+https://d171eo1cjv4seb.cloudfront.net/out/v1/4e9593227e0246e2813314306453be16/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130963_CASACARDS_PARTNER_16_9_1920_1080.png",Real Sociedad Vs Villarreal Cf (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138234_CASACARDS_PARTNER_16_9_1920_1080.png",Uae Bulls Vs Aspin Stallions (Abu Dhabi T10, 2025)

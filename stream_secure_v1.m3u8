@@ -209,6 +209,8 @@ http://87.255.35.150:18842
 http://87.255.35.150:18842/
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",MTV (IND)
 http://87.255.35.150:18901/
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138233_CASACARDS_PARTNER_16_9_1920_1080.png",Quetta Qavalry Vs Uae Bulls (Abu Dhabi T10, 2025)
+https://bd-mc-fdlive.fancode.com/mumbai/138233_english_hls_5b3e3f9b7684299_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138311_CASACARDS_PARTNER_16_9_1920_1080.png",Karnali Yaks Vs Kathmandu Gorkhas (Nepal Premier League, 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/138311_english_hls_61ec21c4158250_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138427_CASACARDS_PARTNER_16_9_1920_1080.png",New Zealand Vs Malaysia (Sultan Azlan Shah Cup)

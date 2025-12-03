@@ -1035,3 +1035,5 @@ https://stream.kliv.fun/allplus299/jtv/manifest.mpd?id=1906
 https://stream.kliv.fun/allplus299/jtv/manifest.mpd?id=1907
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137696_CASACARDS_PARTNER_16_9_1920_1080.png",New Zealand Vs West Indies (West Indies tour of New Zealand, 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764743402~acl=/*~id=b9bf11ef578667ecd82656dc5ea5bc74-1764700200204~hmac=902ed0a8f4ab7142d28a870444fd85bbe3a086d0712ba954ae7180cc80f8a97b
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138660_CASACARDS_PARTNER_16_9_1920_1080.png",Hong Kong, China Women Vs Malaysia Women (Hong Kong, China Women tour of Malaysia, 2025)
+https://bd-mc-fdlive.fancode.com/mumbai/138660_english_hls_9abf7d4a6b73740_1ta-di_h264/index.m3u8
